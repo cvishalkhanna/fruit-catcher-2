@@ -1,2 +1,2 @@
-# pro-41-fruit-catcher2
-https://priya-shanmus.github.io/pro-41-fruit-catcher2/
+# fruit-catcher2
+https://cvishalkhanna.github.io/fruit-catcher-2/
